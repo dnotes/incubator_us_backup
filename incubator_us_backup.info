@@ -1,0 +1,7 @@
+; $Id$
+name = US Backup
+description = Helper module for backup of USBNC sites
+package = *Incubator
+core = 7.x
+
+dependencies[] = backup_migrate
