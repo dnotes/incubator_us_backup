@@ -85,7 +85,7 @@ function incubator_us_backup_backup_migrate_schedules() {
       'destination_id' => 'scheduled',
       'profile_id' => 'us_incubator_rsync_profile',
       'keep' => '1',
-      'period' => '3500',
+      'period' => '82800',
       'enabled' => '1',
       'cron' => '0',
     )
